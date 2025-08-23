@@ -1,0 +1,7 @@
+python 3.13
+
+!pip install kagglehub
+!pip install Pillow
+!pip install matplotlib
+!pip3 install torch torchvision --index-url https://download.pytorch.org/whl/cu126
+!pip install numpy
