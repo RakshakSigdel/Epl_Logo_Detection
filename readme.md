@@ -1,7 +1,5 @@
 # 🏆 EPL Logo Detection Project
 
-![EPL Banner](https://raw.githubusercontent.com/RakshakSigdel/Epl_Logo_Detection/main/readme_assets/epl_banner.jpg)
-
 ## � Project Overview
 
 This project implements a Convolutional Neural Network (CNN) to detect and classify English Premier League (EPL) club logos. The model can identify logos from all 20 EPL clubs with high accuracy.
@@ -51,9 +49,9 @@ The model was trained on the "English Premier League Logo Detection" dataset fro
 
 ## 📈 Results
 
-- **Training Accuracy**: 98.5%
-- **Validation Accuracy**: 97.2%
-- **Test Accuracy**: 97.0%
+- **Training Accuracy**: 95%
+- **Validation Accuracy**: 98.0%
+- **Test Accuracy**: 98.10%
 
 ## � Usage
 
@@ -69,13 +67,6 @@ pip install torch torchvision matplotlib pillow
 ```
 
 3. Run the test notebook to predict logos:
-```bash
-jupyter notebook logo_detector_test.ipynb
-```
-
-## 📷 Demo
-
-![Prediction Example](https://raw.githubusercontent.com/RakshakSigdel/Epl_Logo_Detection/main/readme_assets/prediction_example.jpg)
 
 ## 🔮 Future Improvements
 
@@ -83,9 +74,6 @@ jupyter notebook logo_detector_test.ipynb
 - Deploy as a web application with a user interface
 - Add support for historical club logos
 
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 👥 Contact
 
